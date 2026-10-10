@@ -1,0 +1,6 @@
+Comandos para rodar os scripts do aion pelo CMD.
+
+
+aura-env\Scripts\activate
+
+python aion_esboco_xx.py
